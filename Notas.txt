@@ -1,0 +1,24 @@
+---- Python TOTAL ----
+
+---- Dia15 ----
+
+- 1_python_total_numpy.ipynb         ----> Vimos Numpy y Pandas         ----> https://colab.research.google.com/drive/1vp7zrchG_pJF3uzEgbCjfb_piu43mJXS
+- 2_python_total_pandas.py           ----> Vimos Pandas y Matplotlib    ----> https://colab.research.google.com/drive/1-E33EMCehgPnmqgwm13-SZSnVYOHMpuQ
+- 3_python_total_matplotlib          ----> Vimos Matplotlib             ----> https://colab.research.google.com/drive/1MX9ee5h_TTEc0HqZA6f6Ns6J4rwReHOH
+- 4_python_total_machine_learning.py ----> Vimos Seaborn y Scikit-learn ----> https://colab.research.google.com/drive/1zRVPpLLmhMkmhX_kB9qrWUppHzRTJPFM
+
+---- Notas ----
+
+Notas
+	- Sin notas
+
+Clases mas importantes
+	- dia-11-web-scraping
+    - dia-13-asistente-voz
+    - dia-15-machine-learning
+
+Clases pendientes
+    - dia-10-juego-pygame (PENDIENTE)
+	- dia-12-tkinter (PENDIENTE)
+	- dia-14-reconocimiento-facial (PENDIENTE)
+	- dia-16-django (PENDIENTE)
